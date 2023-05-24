@@ -30,3 +30,6 @@ describe them in your writeup. When the goal is found, your code should print th
 - **solve beam(k)**: Solve the puzzle from its current state by adapting local beam search with k states. You will need to define an evaluation function which you should describe in your writeup. It should have a minimum of zero at the goal state. When the goal is found, print the number of tile moves and solution as for A-star search.
 
 - **maxNodes(n)**: Specifies the maximum number of nodes to be considered during a search. If this limit is exceeded during search an error message should be printed.
+
+### Experimentation
+For experimention section, refer to the AI_Write_Up_Programming_Assignment_1, and is explained in the experiments section at the end of the document. 
